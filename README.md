@@ -61,7 +61,7 @@ $ python3 -m BanAllBot
 <a href="https://t.me/WorldChattingFriendsWCF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/WCFnetwork"><img src="https://img.shields.io/badge/stark%20industry%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/WCFnetwork"><img src="https://img.shields.io/badge/Telegram%20Channel%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
