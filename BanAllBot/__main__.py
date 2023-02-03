@@ -10,10 +10,10 @@ START_MSG="""
 START_BUTTONS=InlineKeyboardMarkup (
       [
       [
-         InlineKeyboardButton (text="➕ ᴀᴅᴅ ᴍᴇ ➕",url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+         InlineKeyboardButton (text="➕ 𝐀𝐝𝐝 𝐦𝐞 ➕",url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
       ],
       [
-         InlineKeyboardButton (text="ʜᴇʟᴘ",callback_data="help_back")
+         InlineKeyboardButton (text="𝐇𝐞𝐥𝐩",callback_data="help_back")
       ]
       ]
 )
@@ -33,7 +33,11 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [sᴛᴀʀᴋ ɪɴᴅᴜsᴛʀʏ](https://t.me/StarkIndustry_21)
+    [𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐇𝐄𝐑𝐄](https://t.me/WorldChattingFriendsWCF)
+    [𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄](https://t.me/WCFnetwork)
+    
+𝗡𝗼𝘁𝗲..✍
+ **ᴍʏ ᴏᴡɴᴇʀ ɪs ɴᴏᴛ ᴛᴀᴋɪɴɢ ʀᴇsᴘᴏɴsɪʙɪʟɪᴛʏ ᴏғ ᴛʜɪs ʙᴏᴛ! ᴜsᴇ ɪᴛ ᴀᴛ ʏᴏᴜʀ ᴏᴡɴ ʀɪsᴋs.**
 """
 
 
