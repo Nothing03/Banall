@@ -12,7 +12,7 @@
 
 <h1 align="center"><b> BAN-ALL BOT❗️</b></h1> 
 
-##  𝘊𝘢𝘵𝘤𝘩 𝘔𝘦 𝘐𝘯 [𝘛𝘎🏃‍♀️](https://t.me/NoobStark_21)   
+##  𝘊𝘢𝘵𝘤𝘩 𝘔𝘦 𝘐𝘯 [𝘛𝘎🏃‍♀️](https://t.me/DaddyBanall_Bot)   
 
 ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
 
@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://telegra.ph/file/145bd28fa769c8c042e3f.jpg">
+  <img src="https://telegra.ph/file/bba3eaee79a1f7e23a647.jpg">
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ```console
 $ sudo apt upgrade
 $ sudo apt install python3-pip
-$ git clone https://github.com/TonyStark-21/Ban-All-Bot
+$ git clone https://github.com/OpQueenbots/banall
 $ cd <ʀᴇᴘᴏ ɴᴀᴍᴇ>
 $ pip3 install -U -r requirements.txt
 $ python3 -m BanAllBot 
@@ -44,7 +44,7 @@ $ python3 -m BanAllBot
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku-deployer.herokuapp.com"> <img src="https://img.shields.io/badge/Redirect%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/OpQueenbots/banall"><img src="https://www.herokucdn.com/deploy/button.svg" height="40"></a>
 
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -58,10 +58,10 @@ $ python3 -m BanAllBot
 </h3>
 
 <p align="center">
-<a href="https://t.me/StarkSupport_21"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/WorldChattingFriendsWCF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/StarkIndustry_21"><img src="https://img.shields.io/badge/stark%20industry%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/WCFnetwork"><img src="https://img.shields.io/badge/stark%20industry%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -74,7 +74,7 @@ $ python3 -m BanAllBot
 </h3>
  : ➻
 
-➥ [ᏚᎢᎪᏒᏦ] × <a href="https://github.com/NoobStark-1" alt="NoobStark-1"> <img src="https://img.shields.io/badge/ᏚᎢᎪᏒᏦ-90302f?logo=github" /></a>  
+➥ [Sangram] × <a href="https://t.me/Red_Wine_Boy" alt="Red-wine"> <img src="https://img.shields.io/badge/Sangram-90302f?logo=Telegram" /></a>  
 
 
 ━━━━━━━━━━━━━━━━━━━━
