@@ -33,8 +33,8 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-    [𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐇𝐄𝐑𝐄](https://t.me/WorldChattingFriendsWCF)
-    [𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄](https://t.me/WCFnetwork)
+
+    [𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐇𝐄𝐑𝐄](https://t.me/WCFnetwork)
     
 𝗡𝗼𝘁𝗲..✍
  **ᴍʏ ᴏᴡɴᴇʀ ɪs ɴᴏᴛ ᴛᴀᴋɪɴɢ ʀᴇsᴘᴏɴsɪʙɪʟɪᴛʏ ᴏғ ᴛʜɪs ʙᴏᴛ! ᴜsᴇ ɪᴛ ᴀᴛ ʏᴏᴜʀ ᴏᴡɴ ʀɪsᴋs.**
